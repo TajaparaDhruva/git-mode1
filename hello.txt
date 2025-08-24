@@ -1,2 +1,3 @@
 Hello Git and GitHub!
 This is my second update.
+This is an update from GitHub.
